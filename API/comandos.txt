@@ -1,0 +1,61 @@
+npm i express
+
+npm i mongo
+
+npm i mongose
+
+npm i nodemon
+
+npm i dotenv
+
+para correr la bace 
+
+npm start
+
+
+{
+    "familyName": "Gonzalez",
+    "location": "San Salvador",
+    "geographicLocation": "13.692940, -89.218191",
+    "houseType": "Casa",
+    "risk": "Bajo",
+    "familymembers": [
+        {
+            "DUI": "12345678-9",
+            "fullName": "Juan Gonzalez",
+            "dateBirth": "1980-01-01",
+            "canReadWrite": true,
+            "scholarity": "Universidad"
+        },
+        {
+            "DUI": "98765432-1",
+            "fullName": "Maria Gonzalez",
+            "dateBirth": "1985-02-02",
+            "canReadWrite": true,
+            "scholarity": "Secundaria"
+        }
+    ]
+}
+{
+    "familyName": "Gonzalez",
+    "location": "San Salvador",
+    "geographicLocation": "13.692940, -89.218191",
+    "houseType": "Casa",
+    "risk": "Bajo",
+    "familymembers": [
+        {
+            "DUI": "12345678-9",
+            "fullName": "Juan Gonzalez",
+            "dateBirth": "1980-01-01",
+            "canReadWrite": true,
+            "scholarity": "Universidad"
+        },
+        {
+            "DUI": "98765432-1",
+            "fullName": "Maria Gonzalez",
+            "dateBirth": "1985-02-02",
+            "canReadWrite": true,
+            "scholarity": "Secundaria"
+        }
+    ]
+}
