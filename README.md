@@ -1,4 +1,4 @@
-﻿**Universidad Centroamericana José Simeón Cañas ![ref1]Departamento de electrónica e informática Programación de dispositivos móviles, ciclo 01-2024. Taller 2.** 
+﻿**ECOF**
 
 **Objetivos.** 
 
@@ -64,7 +64,7 @@ Finalmente, este proyecto se visualiza una aplicación con muchas funcionalidade
 
 **Métrica de evaluación** 
 
-**Universidad Centroamericana José Simeón Cañas ![ref1]Departamento de electrónica e informática Programación de dispositivos móviles, ciclo 01-2024. Taller 2.** 
+**Universidad Centroamericana José Simeón Cañas !Departamento de electrónica e informática Programación de dispositivos móviles, ciclo 01-2024. Taller 2.** 
 
 **Métrica.** 
 
